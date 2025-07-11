@@ -6,6 +6,7 @@ Use it as-is or customize it to fit your platform and use case.
 - If you choose to run LLMs CPU-based, **expect slow response times** and especially slow startup times.
 - **Remember that system prompts take TIME and EFFORT to engineer.** You cannot simply tell it to "act like a pirate" without further tweaking.
 - You will have to tell the bot *how to handle* the **[image]** token it will be presented instead of the image.
+- Remember to take note of how much ram your LLM will use! You do NOT want to run out of ram after you've done everything.
 
 ## Features:
 ### Telegram Integration
