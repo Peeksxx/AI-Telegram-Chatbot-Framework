@@ -37,8 +37,11 @@ Use it as-is or customize it to fit your platform and use case.
 -   Feeds the whole conversation context to your local model via CLI.
 ### And more!
 **Inline Debug Logging** - Prints info to the console.
+
 **Custom Personality** - You can tweak how the bot responds.
+
 **Portable Config** - Clean separation of bot token, personality, and history.
+
 **Displays live chat feed** - Shows the full info of who is talking to the bot and where they are speaking from.
 
 ## Setup
