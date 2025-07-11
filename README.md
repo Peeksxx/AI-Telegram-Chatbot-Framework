@@ -41,8 +41,7 @@ Use it as-is or customize it to fit your platform and use case.
 **Displays live chat feed** - Shows the full info of who is talking to the bot and where they are speaking from.
 
 ## Setup
-[Windows System (Windows 10/11)](#windows-system-windows-1011)
-[Linux System (Only tested on Ubundu-based distro)](#linux-system-only-tested-on-ubundu-based-distro)
+[Windows System (Windows 10/11)](#windows-system-windows-1011) -or- [Linux System (Only tested on Ubundu-based distro)](#linux-system-only-tested-on-ubundu-based-distro)
 
 -------
 ### Windows System (Windows 10/11):
